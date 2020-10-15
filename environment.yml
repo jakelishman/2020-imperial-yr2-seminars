@@ -1,0 +1,5 @@
+name: base
+dependences:
+  - numpy
+  - scipy
+  - matplotlib
