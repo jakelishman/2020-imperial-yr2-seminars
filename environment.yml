@@ -2,6 +2,7 @@ name: base
 dependencies:
   - python
   - ipython
+  - ipywidgets
   - jupyter
   - numpy
   - scipy
